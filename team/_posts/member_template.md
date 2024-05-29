@@ -4,7 +4,7 @@ title: "name"
 position: PhD Student
 nickname: 
 handle: 
-email: @umd.edu
+email: @tamu.edu
 github: 
 scholar: 
 image: /assets/images/team/
