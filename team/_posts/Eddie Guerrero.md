@@ -1,10 +1,10 @@
 ---
 layout: member
-title: "name"
-position: PhD Student
-nickname: 
+title: "Eddie Guerrero"
+position: Undergraduate Student
+nickname: Eddie
 handle: 
-email: @tamu.edu
+email: eddieguerrero@tamu.edu
 github: 
 scholar: 
 image: /assets/images/team/
